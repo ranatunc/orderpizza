@@ -1,0 +1,10 @@
+.newcarousel{
+    height: 300px;
+    width: 100%;
+}
+
+.boyut{
+    background-color:rgba(182, 250, 56, 0.363);
+    border:5px solid white;
+    border-radius: 10%;
+}
